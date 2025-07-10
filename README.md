@@ -4,7 +4,9 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=500&color=2292F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BT%C4%93n%C4%81++Koe%2C+Ko+Tommer+taku+ingoa.;%F0%9F%91%8BHi%2C+I'm+Tommer.;%F0%9F%91%8B%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFTommer%E3%80%82" alt="Typing SVG" /></a><br/>
     <a href = "https://www.linkedin.com/in/tommer-hu-9a314a232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </h1>
+
 <h3 align="center">Graduating Computer Science Student from AUT</h3>
+
 
 - 🔭 I’m currently working on **a management system for [SportHub Community Trust](https://sporthub.org.nz)**
 
