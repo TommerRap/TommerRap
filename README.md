@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">Graduating Computer Science Student from AUT</h3>
 
-- 🔭 I’m currently working on **a management system for SportHub Community Trust**
+- 🔭 I’m currently working on **a management system for [SportHub Community Trust](https://sporthub.org.nz)**
 
 - 🌱 I’m currently learning **.NET Framework, React & Angular**
 
