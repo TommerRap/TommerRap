@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **I have Tourette's. People describe me as "Tik to Tech" lol**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
