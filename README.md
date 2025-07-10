@@ -1,5 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TommerRap.TommerRap)">
 
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=500&color=2292F7&width=435&lines=%F0%9F%91%8BT%C4%93n%C4%81++Koe%2C+Ko+Tommer+taku+ingoa.;%F0%9F%91%8BHi%2C+I'm+Tommer.;%F0%9F%91%8B%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFTommer%E3%80%82" alt="Typing SVG" /></a>
+    <a href = "https://www.linkedin.com/in/tommer-hu-9a314a232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</h1>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+[![Tech-Stack Experiences](https://skillicons.dev/icons?i=cs,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!--
 **TommerRap/TommerRap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
