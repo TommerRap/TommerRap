@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I have Tourette's. People describe me as "Tik to Tech" lol**
 
+- 🧠 From ChatGPT: **Tommer is a full-stack learner, currently mastering React and .NET while building a real-world app. Also a master of cooking frozen rice & dishes so that he doesn't have to cook everyday..**
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
